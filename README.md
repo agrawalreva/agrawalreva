@@ -69,12 +69,5 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalreva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=agrawalreva&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
