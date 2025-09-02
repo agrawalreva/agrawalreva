@@ -8,4 +8,6 @@ Experienced in Python, SQL, React, Node.js, FastAPI, and PostgreSQL, with a stro
 
 I drive impact by building scalable systems, deploying validated ML models, and turning complex data into decisions that shape products and strategy.
 
-Enthusiastic about building technology that lasts, using AI for good, and expanding access to knowledge. Keen to learn, keener to do.
+Enthusiastic about building technology that lasts, using AI for good, and expanding access to knowledge. 
+
+Keen to learn, keener to do.
