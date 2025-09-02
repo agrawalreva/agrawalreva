@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Reva!
 
-🎓 Data Science ÷ Math @ UC San Diego  
+🎓 Data Science + Math @ UC San Diego  
 
 Incessantly curious, analytical, and driven.
 
