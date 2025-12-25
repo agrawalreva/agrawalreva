@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Reva!
+## Hi, I'm Reva!
 
 🎓 Data Science + Math @ UC San Diego  
 
