@@ -2,9 +2,11 @@
 
 🎓 Data Science + Math @ UC San Diego  
 
-Experienced in Python, SQL, React, Node.js, FastAPI, and PostgreSQL, with a strong foundation in machine learning (PyTorch, TensorFlow, Scikit-learn, XGBoost), cloud and DevOps (Docker, AWS, GCP, CI/CD), and data visualization (Power BI, Tableau, D3.js). 
+Experienced in Python, SQL, and modern web technologies (React, Node.js, FastAPI), with expertise in relational and NoSQL databases (PostgreSQL, MongoDB, BigQuery). Skilled in machine learning and AI frameworks (PyTorch, TensorFlow, Scikit-learn, XGBoost, Hugging Face Transformers).
 
-I drive impact by building scalable systems, deploying validated ML models, and turning complex data into decisions that shape products and strategy.
+Proficient in cloud platforms and DevOps workflows (AWS, GCP, Azure, Docker, Kubernetes, CI/CD), advanced data visualization and analytics tools (Power BI, Tableau, D3.js, Plotly, Looker), distributed data processing (Spark, Hadoop), and real-time data pipelines (Kafka, Airflow).
+
+I drive impact by building scalable systems, deploying validated ML models, and turning high-dimensional multi-modal data into decisions that shape products and strategy.
 
 Enthusiastic about building technology that lasts, using AI for good, and expanding access to knowledge. 
 
